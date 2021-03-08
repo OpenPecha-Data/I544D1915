@@ -4,4 +4,14 @@ source_metadata:
   id: bdr:W23218
   title: གསུང་འབུམ། ཀུན་དགའ་ལྷུན་གྲུབ།
   author: ''
-  volumes: {}
+  volumes:
+    7b9d1a45a3f344bfa39f19827ad8db28:
+      image_group_id: I1PD26329
+      title: ''
+      volume_number: 1
+      total_pages: 428
+    11898a95ffa044f6a5737c4923e26b6f:
+      image_group_id: I1PD26330
+      title: ''
+      volume_number: 2
+      total_pages: 396
